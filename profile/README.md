@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 <b>Build and Grow with SolveEz</b>
+</br>
 SolveEz is a global information technology, Website development, Graphic design, Digital marketing, Video editing & Animation agency. We served more than 500+ clients from 40 countries so far.
 
 Our dedicated team and advanced technologies enable us to harness the latest technology for delivering business capability to our clients.
